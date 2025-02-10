@@ -79,9 +79,6 @@ The app is deployed using **Streamlit Sharing** or can be hosted on **Heroku** o
 ## Contributing
 Feel free to fork the repository and make improvements. Contributions are welcome!
 
-## License
-MIT License
-
 ## Contact
 For any issues or improvements, open an issue in the repository or contact me at **aqibfirdous93@gmail.com**.
 
